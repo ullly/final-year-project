@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='csu44099-fyp-1'

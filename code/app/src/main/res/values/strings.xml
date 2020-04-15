@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">csu44099-fyp-1</string>
+    <string name="app_name_brand">pH Test Strip Reader</string>
+    <string name="action_login">SIGN IN</string>
+    <string name="action_cancel">CANCEL</string>
+    <string name="prompt_pass">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_forgot_pass">FORGOT PASS</string>
+    <string name="action_sample">SAMPLE</string>
+    <string name="empty_state_dashboard">Take a sample and it will show up here.</string>
+    <string name="dummy_date">18-30-16-02-20</string>
+    <string name="alt_text_info">Info</string>
+    <string name="alt_text_image">Image</string>
+    <string name="resolution">Resolution</string>
+    <string name="dummy_resolution">400x600 (px)</string>
+    <string name="ph_value">pH Value</string>
+    <string name="dummy_ph">7</string>
+    <string name="score">Type</string>
+    <string name="dummy_score">70</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="delete">DELETE</string>
+    <string name="banner">Ensure phone and test strip is positioned correctly in the lightbox and that the camera is in focus.</string>
+    <string name="okay">OKAY</string>
+    <string name="chart_line">Line Chart</string>
+    <string name="threshold">Threshold</string>
+    <string name="hue">Hue</string>
+    <string name="segmentation">Segmentation</string>
+    <string name="segment_panel">Panel(s)</string>
+</resources>
