@@ -33,3 +33,7 @@ for the report.
 
 Results of image segmentation. 
 
+**screenshots/**
+
+![app](screenshots/app.png)
+
